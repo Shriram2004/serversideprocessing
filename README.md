@@ -143,10 +143,10 @@ urlpatterns = [
 
 ## OUTPUT:
 ### Normal Page:
-![ouput](ss.jpg)
+![ouput](SS.jpg)
 
 ### Calculation Page:
-![output](s.jpg)
+![output](S.jpg)
 
 
 
